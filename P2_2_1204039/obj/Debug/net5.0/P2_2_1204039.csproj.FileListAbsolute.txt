@@ -1,0 +1,16 @@
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\P2_2_1204039.exe
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\P2_2_1204039.deps.json
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\P2_2_1204039.runtimeconfig.json
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\P2_2_1204039.runtimeconfig.dev.json
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\P2_2_1204039.dll
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\ref\P2_2_1204039.dll
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\bin\Debug\net5.0\P2_2_1204039.pdb
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.csproj.AssemblyReference.cache
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.AssemblyInfoInputs.cache
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.AssemblyInfo.cs
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.csproj.CoreCompileInputs.cache
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.dll
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\ref\P2_2_1204039.dll
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.pdb
+C:\Users\DenjanD\source\repos\P2_2_1204039\P2_2_1204039\obj\Debug\net5.0\P2_2_1204039.genruntimeconfig.cache
